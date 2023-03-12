@@ -1,0 +1,154 @@
+*{
+    text-align: center;
+}
+
+
+body{
+
+    background-color: white;
+    margin:0;
+    padding:0;
+}
+
+/************************************header******************/
+
+
+.container .text1 {
+
+    margin: 12px;
+    padding: 12px;
+    font-family:'Times New Roman', Times, serif;
+    opacity: 0.5;
+}
+
+.container .instagram img {
+
+    margin-bottom: 30px;
+    height: 80px;
+    width: 200px;
+}
+
+/************************************navbar******************/
+
+
+
+.container i {
+
+    color: white;
+
+}
+
+.container .button1 {
+
+    background-color: rgb(0, 179, 255);
+    margin: 20px;
+    padding:10px;
+    width: 270px;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.container .button1 span {
+
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container .text2 {
+
+    margin-bottom: 25px;
+    opacity: 0.40;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+.container .input1 input {
+
+    background-color: rgb(243, 243, 243);
+    margin: 5px;
+    padding: 10px;
+    width: 250px;
+    border: 5px;
+    border-radius: 3px;
+}
+
+.container .input2 input {
+   
+    background-color: rgb(243, 243, 243);
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 250px;
+    border: 5px;
+    border-radius: 3px;
+    text-align:start;
+}
+
+.container .text3 a {
+
+    color:  rgb(0, 146, 209);
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;    
+}
+
+.container .login {
+
+    background-color: rgb(0, 179, 255);
+    margin: 20px;
+    padding:10px;
+    width: 270px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.container .text4 span {
+    opacity: 0.4;
+}
+
+.container .text4 a {
+
+    color:  rgb(0, 158, 226);
+    text-decoration: none;
+    font-weight: 300;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;      
+}
+
+
+/************************************footer******************/
+
+
+.container .text5 p {
+
+    opacity: 0.5;
+    font-size: small; 
+    margin-top: 90px;
+    margin-bottom: 0px;   
+}
+
+.container .logo2 img {
+
+    width: 80px; 
+    height: 25px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
